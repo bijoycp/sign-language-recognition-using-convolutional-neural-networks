@@ -4,13 +4,9 @@ sign language recognition using convolutional neural networks tensorflow opencv 
 system Specification
 
 dell inspiron 14
-
 Processor : Intel Core i3
-
 RAM : 4 GB
-
 Graphic Processor : No
-
 Swap space : 4 GB
 
 
