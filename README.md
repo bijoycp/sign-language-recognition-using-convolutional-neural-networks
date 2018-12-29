@@ -1,8 +1,7 @@
 # sign-language-recognition-using-convolutional-neural-networks
 sign language recognition using convolutional neural networks tensorflow opencv and python
 
+<h1 output of the projectnet/>
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3TOiZiPHpTU/0.jpg)](https://www.youtube.com/watch?v=3TOiZiPHpTU&t=7s)
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=3TOiZiPHpTU
-" target="_blank"><img src="http://img.youtube.com/vi/3TOiZiPHpTU/0.jpg" 
-alt="tutorial 1" width="240" height="180" border="10" /></a>
