@@ -2,13 +2,11 @@
 ## sign language recognition using convolutional neural networks tensorflow tflean opencv and python
 
 ### system Specification<br />
-
 dell inspiron 14<br />
 Processor : Intel Core i3<br />
 RAM : 4 GB<br />
 Graphic Processor : No<br />
 Swap space : 4 GB<br />
-
 
 ### Softeware Specification<br />
 tensorflow version : 1.4.0<br />
