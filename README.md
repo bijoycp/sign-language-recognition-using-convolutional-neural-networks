@@ -1,6 +1,12 @@
 # sign-language-recognition-using-convolutional-neural-networks
 sign language recognition using convolutional neural networks tensorflow opencv and python
 
+system spec
+
+dell inspiron 14
+Processor : Intel Core i3
+
+
  output of the project
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3TOiZiPHpTU/0.jpg)](https://www.youtube.com/watch?v=3TOiZiPHpTU&t=7s)
