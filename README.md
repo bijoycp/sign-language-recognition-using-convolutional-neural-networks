@@ -14,6 +14,27 @@ opencv : 3.4.0<br />
 numpy : 1.15.4<br />
 
 
+sudo apt-get update
+sudo apt-get upgrade
+
+sudo apt install htop
+
+sudo apt-get install python-pip
+
+sudo apt install python3-pip --reinstall
+
+pip3 install opencv-contrib-python
+
+pip3 install tensorflow==1.4.0
+
+pip3 install tflearn
+
+pip3 install talkey
+
+sudo apt-get install espeak
+
+pip3 install imutils
+
  ## Output of the project
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3TOiZiPHpTU/0.jpg)](https://www.youtube.com/watch?v=3TOiZiPHpTU&t=7s)
