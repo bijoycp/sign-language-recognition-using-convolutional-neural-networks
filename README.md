@@ -42,7 +42,7 @@ pip3 install imutils
 
 ## Create dataset
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/mpdPXWcXp3I/0.jpg)](https://www.youtube.com/watch?v=mpdPXWcXp3I)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mpdPXWcXp3I/0.jpg)](https://www.youtube.com/watch?v=mpdPXWcXp3I)
 
 ## Create dataset-1
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6H-YQlrgn6U/0.jpg)](https://www.youtube.com/watch?v=6H-YQlrgn6U)
