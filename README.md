@@ -35,14 +35,14 @@ sudo apt-get install espeak
 
 pip3 install imutils
 
- ## Output of the project
+ ## Output of the Project
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3TOiZiPHpTU/0.jpg)](https://www.youtube.com/watch?v=3TOiZiPHpTU)
 
 
-## Create dataset
+## Image capturing for Creating Dataset
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mpdPXWcXp3I/0.jpg)](https://www.youtube.com/watch?v=mpdPXWcXp3I)
 
-## Create dataset-1
+## Create Dataset
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6H-YQlrgn6U/0.jpg)](https://www.youtube.com/watch?v=6H-YQlrgn6U)
