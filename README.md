@@ -15,6 +15,7 @@ numpy : 1.15.4<br />
 
 
 sudo apt-get update
+
 sudo apt-get upgrade
 
 sudo apt install htop
