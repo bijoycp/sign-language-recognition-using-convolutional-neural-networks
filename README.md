@@ -36,6 +36,8 @@ sudo apt-get install espeak
 
 pip3 install imutils
 
+sudo pip3 install  python-dateutil==2.5.0
+
  ## Output of the Project
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3TOiZiPHpTU/0.jpg)](https://www.youtube.com/watch?v=3TOiZiPHpTU)
