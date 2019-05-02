@@ -29,8 +29,8 @@ image filters like threshold and other filters are not used for creating the dat
 the model was trained using 96x96 grayscale images
 
 ![output](https://user-images.githubusercontent.com/18006433/57105815-708f7200-6d49-11e9-8a1b-b8aa525dc541.png)
-## graph
-![graph_large_attrs_key=_too_large_attrs limit_attr_size=1024 run=handsign](https://user-images.githubusercontent.com/18006433/57106555-56569380-6d4b-11e9-842c-b00f1558dcb0.png)
+## TensorBoard: Graph Visualization
+![graph](https://user-images.githubusercontent.com/18006433/57106555-56569380-6d4b-11e9-842c-b00f1558dcb0.png)
 ## Image capturing for Creating Dataset
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mpdPXWcXp3I/0.jpg)](https://www.youtube.com/watch?v=mpdPXWcXp3I)
