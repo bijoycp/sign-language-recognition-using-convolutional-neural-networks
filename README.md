@@ -1,19 +1,12 @@
 # sign-language-recognition-using-convolutional-neural-networks
 ## sign language recognition using convolutional neural networks tensorflow tflean opencv and python
 
-### system Specification<br />
-dell inspiron 14<br />
-Processor : Intel Core i3<br />
-RAM : 4 GB<br />
-Graphic Processor : No<br />
-Swap space : 4 GB<br />
-
 ### Softeware Specification<br />
 tensorflow version : 1.4.0<br />
 opencv : 3.4.0<br />
 numpy : 1.15.4<br />
 
-
+## install packages
 sudo apt-get update  
 sudo apt-get upgrade  
 sudo apt install htop  
@@ -31,6 +24,10 @@ sudo pip3 install  python-dateutil==2.5.0
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3TOiZiPHpTU/0.jpg)](https://www.youtube.com/watch?v=3TOiZiPHpTU)
 
+ ## final output 
+ no filter used and trained the 96x96 grayscale image 
+
+![output](https://user-images.githubusercontent.com/18006433/57105815-708f7200-6d49-11e9-8a1b-b8aa525dc541.png)
 
 ## Image capturing for Creating Dataset
 
