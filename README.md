@@ -30,7 +30,7 @@ the model was trained using 96x96 grayscale images
 
 ![output](https://user-images.githubusercontent.com/18006433/57105815-708f7200-6d49-11e9-8a1b-b8aa525dc541.png)
 ## TensorBoard: Graph Visualization
-in final program 5 hidden layers are there    
+in final program 5 hidden layers were used for increasing the accuracy of the model  
 ![graph](https://user-images.githubusercontent.com/18006433/57106555-56569380-6d4b-11e9-842c-b00f1558dcb0.png)
 ## Image capturing for Creating Dataset
 
