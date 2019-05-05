@@ -1,7 +1,7 @@
 # sign-language-recognition-using-convolutional-neural-networks
 ## sign language recognition using convolutional neural networks tensorflow tflean opencv and python
 
-### Softeware Specification<br />
+### Software Specification<br />
 tensorflow version : 1.4.0<br />
 opencv : 3.4.0<br />
 numpy : 1.15.4<br />
