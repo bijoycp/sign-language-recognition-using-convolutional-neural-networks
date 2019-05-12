@@ -24,7 +24,7 @@ sudo pip3 install  python-dateutil==2.5.0
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3TOiZiPHpTU/0.jpg)](https://www.youtube.com/watch?v=3TOiZiPHpTU)
 
- ## final output 
+ ## Final output 
 image filters like threshold and other filters are not used for creating the dataset  
 the model was trained using 96x96 grayscale images
 
