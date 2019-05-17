@@ -3,7 +3,7 @@ import numpy as np         # dealing with arrays
 import os                  # dealing with directories
 from random import shuffle # mixing up or currently ordered data that might lead our network astray in training.
 
-path='train_data'
+path='data'
 
 IMG_SIZE = 96
 
