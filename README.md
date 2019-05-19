@@ -21,9 +21,11 @@ pip3 install imutils
 sudo pip3 install  python-dateutil==2.5.0  
 
  ## Output of the Project
-
+### Video
+### Ubuntu
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3TOiZiPHpTU/0.jpg)](https://www.youtube.com/watch?v=3TOiZiPHpTU)
-
+### Raspberry Pi
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0Cv16PBM4Ro/0.jpg)](https://www.youtube.com/watch?v=0Cv16PBM4Ro)
  ## Final output 
 image filters like threshold and other filters are not used for creating the dataset  
 the model was trained using 96x96 grayscale images
