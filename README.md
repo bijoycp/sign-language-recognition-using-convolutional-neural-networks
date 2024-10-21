@@ -21,15 +21,15 @@ pip3 install imutils
 sudo pip3 install  python-dateutil==2.5.0  
 
  ## Run the Code  
- ### capture the image 
+ ### Capture the Image 
  ```
  python3 1_img_cap.py  
  ```
- ### create dataset 
+ ### Create Dataset 
  ```
  python3 2_create_dataset.py  
  ```
- ### Train the model 
+ ### Train the Model 
  ```
  python3 3_cnn_train.py  
  ```
