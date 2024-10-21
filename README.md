@@ -20,6 +20,25 @@ sudo apt-get install espeak
 pip3 install imutils  
 sudo pip3 install  python-dateutil==2.5.0  
 
+ ## Run the Code  
+ ### capture the image 
+ '''
+ python3 1_img_cap.py  
+ '''
+ ### create dataset 
+ '''
+ python3 2_create_dataset.py  
+ '''
+ ### Train the model 
+ '''
+ python3 3_cnn_train.py  
+ '''
+ ### Display Output 
+ '''
+ python3 4_cam_cnn_out.py  
+ 5_cam_cnn_out_string.py  
+ '''
+ 
  ## Output of the Project
 ### Video
 ### Ubuntu
